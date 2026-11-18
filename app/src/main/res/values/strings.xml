@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">zd2_v7_Pavlov</string>
+    <string name="AddArt">Добавить исполнителя</string>
+    <string name="Artists">Исполнители</string>
+    <string name="NewAlb">Новые альбомы</string>
+    <string name="musiccatalog">MusicCatalog</string>
+    <string name="e_mail">E-mail</string>
+    <string name="you_example_com">you@example.com</string>
+    <string name="password">Пароль</string>
+    <string name="yourPasswprd">Ваш пароль</string>
+    <string name="Login">Войти</string>
+    <string name="Alb">Альбомы</string>
+    <string name="album_name">Album Name</string>
+    <string name="love">Избранное</string>
+</resources>
