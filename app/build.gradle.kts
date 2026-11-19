@@ -42,12 +42,11 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.material)
 
-
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
     implementation(libs.androidx.room.runtime)
     implementation(libs.androidx.room.ktx)
-    ksp(libs.androidx.room.compiler) // ВАЖНО: используем ksp, а не kapt или implementation
-
-
+    ksp(libs.androidx.room.compiler)
+    implementation("androidx.wear:wear:1.3.0")
     implementation(libs.gson)
 
 
